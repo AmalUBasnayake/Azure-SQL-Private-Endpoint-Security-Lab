@@ -38,6 +38,9 @@ The primary objective of this lab was to implement a **Zero Trust network archit
   <img src="images/Architecture_1.png" width="90%">
 </p>
 
+ > ### **Architecture Concept**
+> 
+>The diagram illustrates how **public internet access is completely restricted**, forcing all database administration to happen through a **secured Jumpbox** within a private **Virtual Network (VNet)**, connected via **Azure Private Link**.
 
 ---
 
