@@ -34,21 +34,10 @@ The primary objective of this lab was to implement a **Zero Trust network archit
 
 # 🏗️ Architecture Flow
 
-```text
-Virtual Machine
-       │
-       ▼
-Virtual Network (VNet)
-       │
-       ▼
-Private Endpoint
-       │
-       ▼
-Azure SQL Database
-       │
-       ▼
-Public Internet Access Disabled
-```
+<p align="center">
+  <img src="images/Architecture.png" width="90%">
+</p>
+
 
 ---
 
