@@ -35,7 +35,7 @@ The primary objective of this lab was to implement a **Zero Trust network archit
 # 🏗️ Architecture Flow
 
 <p align="center">
-  <img src="images/Architecture.png" width="90%">
+  <img src="images/Architecture_1.png" width="90%">
 </p>
 
 
